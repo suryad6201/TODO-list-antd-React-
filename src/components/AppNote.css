@@ -1,0 +1,14 @@
+.form {
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 6px;
+  border: 0.5px solid rgb(206, 206, 206);
+  /* box-shadow: 0 1px 20px hsla(199, 88%, 56%, 0.603); */
+}
+
+.form-item {
+  margin-bottom: 10px;
+}
